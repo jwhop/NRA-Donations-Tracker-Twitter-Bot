@@ -1,0 +1,23 @@
+{
+  "name": "nra-donations-tracker-twitter-bot",
+  "version": "1.0.0",
+  "description": "Simple Twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "start-bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwhop/NRA-Donations-Tracker-Twitter-Bot.git"
+  },
+  "author": "Jonny Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwhop/NRA-Donations-Tracker-Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/jwhop/NRA-Donations-Tracker-Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  }
+}
